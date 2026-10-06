@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+blood_group_env/
+*.egg-info/
+dist/
+build/
+
+# Flask
+instance/
+.webassets-cache
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Model artifacts
+*.h5
+*.keras
+!blood_group_model_efficientnet.tflite
+!class_indices.pkl
+!model_metadata.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+requirements_temp.txt
+
+# Data folders
+data/
+dataset_folder/
+
+# Generated app data
+patient_history.db
+classification_report.txt
+confusion_matrix.npy
+confusion_matrix.png
+history.pkl
+
+# Large documents and presentations
+*.pptx
+*.pdf
+*.docx
+
+# Vercel
+.vercel/
