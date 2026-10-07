@@ -10,8 +10,7 @@
 
 **Non-invasive blood group detection using deep learning on infrared hand images**
 
-[🚀 Live Demo](#deployment) · [📖 Documentation](#usage) · [🐛 Issues](https://github.com/
-sujal112002/blood-group-detection/issues)
+[🚀 Live Demo](#deployment) · [📖 Documentation](#usage) · [🐛 Issues](https://github.com/sujal112002/blood-group-detection/issues)
 
 </div>
 
