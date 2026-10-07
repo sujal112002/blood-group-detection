@@ -10,7 +10,8 @@
 
 **Non-invasive blood group detection using deep learning on infrared hand images**
 
-[🚀 Live Demo](#deployment) · [📖 Documentation](#usage) · [🐛 Issues](https://github.com/RAHULPATEL2002/blood-group-detection/issues)
+[🚀 Live Demo](#deployment) · [📖 Documentation](#usage) · [🐛 Issues](https://github.com/
+sujal112002/blood-group-detection/issues)
 
 </div>
 
@@ -57,7 +58,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/RAHULPATEL2002/blood-group-detection.git
+git clone 
 cd blood-group-detection
 
 # 2. Create virtual environment
@@ -205,20 +206,3 @@ blood-group-detection/
 
 ---
 
-## 👤 Developer
-
-**Rahul Patel**
-
-[![GitHub](https://img.shields.io/badge/GitHub-RAHULPATEL2002-181717?style=flat-square&logo=github)](https://github.com/RAHULPATEL2002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Patel-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rahul-patel-27b552250/)
-[![Email](https://img.shields.io/badge/Email-rahulpatelanuppur@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rahulpatelanuppur@gmail.com)
-
----
-
-## 📄 Publications
-
-- [Blood Group Detection Using Infrared Hand Image — IJIRT189616](IJIRT189616_PAPER_final_published.pdf)
-
----
-
-⭐ **Star this repo if you find it helpful!**
